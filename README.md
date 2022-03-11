@@ -1,6 +1,6 @@
 # Gallery-Challenge
 DevChallenges.io -Responsive Web Design challenge
-
+<p>Preview: https://gallery-challenge.netlify.app/ </p>
 
 <h2>Overview</h2>
 ![screenshot](https://github.com/sidramwaseem/Gallery-Challenge/blob/main/previews/overview.png?raw=true)
