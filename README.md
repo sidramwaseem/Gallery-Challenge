@@ -2,8 +2,8 @@
 DevChallenges.io -Responsive Web Design challenge
 
 
-<h2>Overview</h2>
-<p>Here's preview of the project:</p>
+<h2>Overview</h2><br>
+Here's preview of the project<br>
 ![image](https://github.com/sidramwaseem/Gallery-Challenge/blob/main/previews/overview.png?raw=true)
 
 <h2>Technologies Used</h2>
